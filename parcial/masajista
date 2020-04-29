@@ -1,0 +1,71 @@
+package javaapplication12;
+
+public class Masajista {
+
+    private int id;
+    private String mombre;
+    private String apellidos;
+    private int edad;
+    private String titulacion;
+    private int aniosExperiencia;
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public String getMombre() {
+        return mombre;
+    }
+
+    public void setMombre(String mombre) {
+        this.mombre = mombre;
+    }
+
+    public String getApellidos() {
+        return apellidos;
+    }
+
+    public void setApellidos(String apellidos) {
+        this.apellidos = apellidos;
+    }
+
+    public int getEdad() {
+        return edad;
+    }
+
+    public void setEdad(int edad) {
+        this.edad = edad;
+    }
+
+    public String getTitulacion() {
+        return titulacion;
+    }
+
+    public void setTitulacion(String titulacion) {
+        this.titulacion = titulacion;
+    }
+
+    public int getAniosExperiencia() {
+        return aniosExperiencia;
+    }
+
+    public void setAniosExperiencia(int aniosExperiencia) {
+        this.aniosExperiencia = aniosExperiencia;
+    }
+
+    
+    
+    public void concentrarse() {
+    }
+
+    public void viajar() {
+    }
+
+    public void darMasaje() {
+    }
+
+}
