@@ -1,0 +1,30 @@
+package javaapplication12;
+
+import java.io.FileNotFoundException;
+import java.util.Scanner;
+
+public class positivosYPromedio {
+
+    public static void main(String[] args) throws FileNotFoundException, Exception{
+        Scanner sc = new Scanner(System.in);
+        float numerosPositivos = 0;
+        float suma=0;
+        float resultado = 0;
+        float valor2;
+        float sumatotal=0;
+        for (int i = 0; i < 6; i++) {
+           
+            valor2 = sc.nextFloat();
+            
+            if (valor2 > 0) {
+                numerosPositivos++;
+                suma= suma+valor2;
+            }
+            sumatotal=suma;
+        }
+        System.out.println(numerosPositivos + " valores positivos");
+        System.out.println(sumatotal/numerosPositivos);
+
+    }
+
+}
