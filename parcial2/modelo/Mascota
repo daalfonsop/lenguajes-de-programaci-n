@@ -1,0 +1,98 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package Modelo;
+
+import javax.swing.Icon;
+
+/**
+ *
+ * @author diego
+ */
+public class Mascota {
+    
+    int id;
+    String nombre;
+    String raza;
+    String edad;
+    String nombreDueño;
+    String celular;
+
+    public Mascota(String nombre, String raza, String edad, String nombreDueño, String celular) {
+        this.nombre = nombre;
+        this.raza = raza;
+        this.edad = edad;
+        this.nombreDueño = nombreDueño;
+        this.celular = celular;
+    }
+
+    public Mascota(String nombreM, String raza, String edad, String nombreD, String celular, Icon icon) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public String getRaza() {
+        return raza;
+    }
+
+    public void setRaza(String raza) {
+        this.raza = raza;
+    }
+
+    public String getEdad() {
+        return edad;
+    }
+
+    public void setEdad(String edad) {
+        this.edad = edad;
+    }
+
+    public String getNombreDueño() {
+        return nombreDueño;
+    }
+
+    public void setNombreDueño(String nombreDueño) {
+        this.nombreDueño = nombreDueño;
+    }
+
+    public String getCelular() {
+        return celular;
+    }
+
+    public void setCelular(String celular) {
+        this.celular = celular;
+    }
+
+    @Override
+    public String toString() {
+        return "Mascota{" + "id=" + id + ", nombre=" + nombre + ", raza=" + raza + ", edad=" + edad + ", nombreDue\u00f1o=" + nombreDueño + ", celular=" + celular + '}';
+    }
+
+   
+
+  
+    
+
+  
+    
+    
+    
+    
+}
