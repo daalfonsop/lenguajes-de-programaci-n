@@ -13,6 +13,7 @@ Estudiante de Desarrollo de Software de la Universidad San Buenaventura.
 	###### Solución del Problema
 	Se desarrollará una aplicación que pueda tener la opción de facilitar el proceso de almacenamiento, consulta y editar de las carpetas de cada uno de los pacientes, esta aplicación facilitará considerablemente la búsqueda de las carpetas, de igual forma, a que se evite la perdida o confusión de información de esta misma.
 
+###Identificación de Stakeholders
 
 | Nombre | Representa a | Responsabilidad | 
 | ------ | ------ | ------ |
@@ -20,3 +21,9 @@ Estudiante de Desarrollo de Software de la Universidad San Buenaventura.
 | Trabajador | Odontólogos y auxiliares de odontología | Consultar, actualizar y editar información de clientes y de sus carpetas.Crear y editar clientes |
 | Cliente | Persona que ya tiene un servicio con la clínica odontológica  | Entregar información personal y necesaria a Trabajadores o Empresarios para poder ser atendido.|
 | Desarrollador | Desarrolladores de Software | Debe realizar los prototipos necesarios para desarrollar la aplicación |
+
+
+| Nombre | Gerente, dueño o persona encargada de la clínica odontológica. | 
+| ------ | ------ | 
+| Descripción | Garantiza y revisa que todos los procesos dentro de la empresa se están llevando de la forma correcta.|
+| Responsabilidad | Revisar información de todos sus empleados, carpetas y clientes.Crear, eliminar, editar y actualizar, carpetas y empleados.|
