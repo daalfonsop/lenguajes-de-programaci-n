@@ -36,3 +36,9 @@ Estudiante de Desarrollo de Software de la Universidad San Buenaventura.
 | Descripción | Se encarga de realizar los procesos dentales a los pacientes, de crear, editar pacientes y carpetas en la aplicación.|
 | Responsabilidad | Consultar, actualizar y editar información de clientes y de sus carpetas.Crear y editar clientes.|
 
+
+| Nombre | Auxiliar de Odontología | 
+| ------ | ------ | 
+| Descripción | Se encarga de prestar servicio al cliente, del manejo de materiales y ayudante del odontólogo.Puede crear, editar pacientes y carpetas en la aplicación. |
+| Responsabilidad | Consultar, actualizar y editar información de clientes y de sus carpetas.Crear y editar clientes.|
+
