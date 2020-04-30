@@ -28,3 +28,11 @@ Estudiante de Desarrollo de Software de la Universidad San Buenaventura.
 | ------ | ------ | 
 | Descripción | Garantiza y revisa que todos los procesos dentro de la empresa se están llevando de la forma correcta.|
 | Responsabilidad | Revisar información de todos sus empleados, carpetas y clientes.Crear, eliminar, editar y actualizar, carpetas y empleados.|
+
+### Trabajador
+
+| Nombre | Odontólogo | 
+| ------ | ------ | 
+| Descripción | Se encarga de realizar los procesos dentales a los pacientes, de crear, editar pacientes y carpetas en la aplicación.|
+| Responsabilidad | Consultar, actualizar y editar información de clientes y de sus carpetas.Crear y editar clientes.|
+
