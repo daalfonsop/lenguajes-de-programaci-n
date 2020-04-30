@@ -4,7 +4,7 @@
 ### Diego Andrés Alfonso Pérez
 Estudiante de Desarrollo de Software de la Universidad San Buenaventura.
 
-######Proyectos
+###### Proyectos
 - Sistema de Registros para una clinica odontologica
 	###### Descripción del Problema
 	En la mayoría de las odontologías se lleva el control de las citas de los pacientes en forma física, por lo general estos controles se llevan en una carpeta donde se anexan todos los registros con sus radiografías y otras cosas; cuando la clínica odontológica tiene varios pacientes se emplea un cuarto grande donde se ponen estantes con separadores, en los cuales se ubican las carpetas de las personas separadas por las iniciales de su nombre.
