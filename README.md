@@ -13,7 +13,7 @@ Estudiante de Desarrollo de Software de la Universidad San Buenaventura.
 	###### Solución del Problema
 	Se desarrollará una aplicación que pueda tener la opción de facilitar el proceso de almacenamiento, consulta y editar de las carpetas de cada uno de los pacientes, esta aplicación facilitará considerablemente la búsqueda de las carpetas, de igual forma, a que se evite la perdida o confusión de información de esta misma.
 
-###Identificación de Stakeholders
+### Identificación de Stakeholders
 
 | Nombre | Representa a | Responsabilidad | 
 | ------ | ------ | ------ |
