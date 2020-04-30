@@ -22,6 +22,7 @@ Estudiante de Desarrollo de Software de la Universidad San Buenaventura.
 | Cliente | Persona que ya tiene un servicio con la clínica odontológica  | Entregar información personal y necesaria a Trabajadores o Empresarios para poder ser atendido.|
 | Desarrollador | Desarrolladores de Software | Debe realizar los prototipos necesarios para desarrollar la aplicación |
 
+#### Empresario Odontologia
 
 | Nombre | Gerente, dueño o persona encargada de la clínica odontológica. | 
 | ------ | ------ | 
